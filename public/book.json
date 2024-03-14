@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "img": "https://img.freepik.com/free-psd/book-hardcover-mockup_125540-382.jpg?t=st=1710336807~exp=1710340407~hmac=9ed673172ba7266eee4cb4e785799f437c52d7497e21d32e1f13d5ba98e1d3cf&w=740",
+    "title": "Book Title 1",
+    "price": 10.99,
+    "rating": 2
+  },
+  {
+    "id": 2,
+    "img": "https://img.freepik.com/free-photo/front-view-stacked-books-ladders-education-day_23-2149241046.jpg?t=st=1710336900~exp=1710340500~hmac=4bb4df6cc5cc1f979e52375ffd343166cf8fbaa9d5dd59cfc04f729746a4783c&w=740",
+    "title": "Book Title 2",
+    "price": 12.5,
+    "rating": 20
+  },
+  {
+    "id": 3,
+    "img": "https://img.freepik.com/free-photo/studying-emotions-concept_273609-23885.jpg?t=st=1710336914~exp=1710340514~hmac=72430e9206d5f15cf2300eaf1b237b9ec8912ce1c345327f6be7238acb41cc9a&w=740",
+    "title": "Book Title 3",
+    "price": 8.75,
+    "rating": 50
+  },
+  {
+    "id": 4,
+    "img": "https://img.freepik.com/premium-psd/realistic-book-cover-mockup-isolated_167120-97.jpg?w=740",
+    "title": "Book Title 4",
+    "price": 15.25,
+    "rating": 4
+  },
+  {
+    "id": 5,
+    "img": "https://img.freepik.com/free-psd/realistic-book-cover-presentation_1310-23.jpg?t=st=1710336946~exp=1710340546~hmac=e21fe6ae9a31bc775de9fed7ce5749a3d2ea777a03a9bc761e326098c5ad217b&w=740",
+    "title": "Book Title 5",
+    "price": 9.99,
+    "rating": 11
+  },
+  {
+    "id": 6,
+    "img": "https://img.freepik.com/free-vector/books-background-with-diploma-biretta_23-2147628018.jpg?t=st=1710336965~exp=1710340565~hmac=a269b56bd7528a4e107a15fe0de379a39e69bbcacf0ce1edd6f79e935097a9ff&w=740",
+    "title": "Book Title 6",
+    "price": 14.99,
+    "rating": 2
+  },
+  {
+    "id": 7,
+    "img": "https://img.freepik.com/free-photo/open-book-with-fairytale-scene_52683-107846.jpg?t=st=1710336982~exp=1710340582~hmac=a655d9d1e53d45422815e5be4d79e16808a1df465bc0e00d7360cb9fd286ff64&w=740",
+    "title": "Book Title 7",
+    "price": 11.25,
+    "rating": 10
+  },
+  {
+    "id": 8,
+    "img": "https://img.freepik.com/free-photo/open-book-with-fairytale-scene_52683-107846.jpg?t=st=1710336982~exp=1710340582~hmac=a655d9d1e53d45422815e5be4d79e16808a1df465bc0e00d7360cb9fd286ff64&w=740",
+    "title": "Book Title 8",
+    "price": 7.5,
+    "rating": 20
+  },
+  {
+    "id": 9,
+    "img": "https://img.freepik.com/free-psd/book-hardcover-mockup_125540-225.jpg?t=st=1710337030~exp=1710340630~hmac=e40106929b96b7f42b17764b7d6b4a034ece844e8b7bda5dd0e54f1bf8d354f4&w=740",
+    "title": "Book Title 9",
+    "price": 20.0,
+    "rating": 23
+  },
+  {
+    "id": 10,
+    "img": "https://img.freepik.com/free-psd/book-hardcover-mockup-three-views_125540-226.jpg?t=st=1710337045~exp=1710340645~hmac=1762a6d99becadfd0c62fe426f29c53378f482020243e595b2547900cb76e262&w=740",
+    "title": "Book Title 10",
+    "price": 18.99,
+    "rating": 40
+  }
+]
